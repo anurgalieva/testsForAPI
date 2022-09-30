@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurgalieva/testsForAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurgalieva/testsForAPI/issues"
+  },
+  "homepage": "https://github.com/anurgalieva/testsForAPI#readme",
+  "dependencies": {
+    "allure": "0.0.0",
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.2",
+    "mocha": "^10.0.0",
+    "performance-now": "^2.1.0"
+  }
+}
